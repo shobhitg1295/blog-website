@@ -430,8 +430,8 @@ header .menu {
     }
     header ul {
         width: 100%;
-        background: #0ca5aa;
-        
+        background: #008489;
+        colour: grey;
     }
     header ul li {
         width:100%
@@ -488,3 +488,4 @@ header .menu {
     }
 
 }
+
