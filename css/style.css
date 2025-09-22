@@ -424,14 +424,13 @@ header .menu {
     }
 }
 
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 1080px){
     header {
         position: relative;
     }
     header ul {
         width: 100%;
         background: #008489;
-        colour: grey;
     }
     header ul li {
         width:100%
@@ -488,4 +487,5 @@ header .menu {
     }
 
 }
+
 
